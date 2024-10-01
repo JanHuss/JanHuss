@@ -19,7 +19,7 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janhuss/) 
 
 # Current Projects:
-- Book of Abominations - An award-winning game developed by [![Studio Catloaf](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://x.com/in/https://x.com/StudioCatloaf) 
+- Book of Abominations - An award-winning game developed by [Studio Catloaf](https://x.com/StudioCatloaf)
 - MaginEngine Audio - Building an audio engine for video games (Honours project)  
 
 # Skills in:
