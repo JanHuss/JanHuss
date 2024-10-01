@@ -19,8 +19,8 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janhuss/) 
 
 # Current Projects:
-- Book of Abominations - An award-winning game developed by [Studio Catloaf](https://x.com/StudioCatloaf)
-- MaginEngine Audio - Building an audio engine for video games (Honours project)  
+- [Book of Abominations](https://www.eurogamer.net/uncovering-the-eldritch-horror-monster-collecting-rpg-book-of-abominations) - An award-winning game developed by [Studio Catloaf](https://x.com/StudioCatloaf)
+- [MaginEngine Audio](https://github.com/JanHuss/maginEngineAudio) - Building an efficient and optimised audio engine for video games (Honours project)  
 
 # Skills in:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
