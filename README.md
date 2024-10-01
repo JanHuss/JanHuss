@@ -16,8 +16,7 @@ I am an Audio Tools Programmer with a 10-year career in music production <br>and
 <img align="left" alt="gitHub" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img  align="left" alt="rider" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
 <img  align="left" alt="visualStudio" width="30px" style="padding-right:5px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="latex" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-<br>
+<img align="left" alt="latex" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /><br>
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanHuss&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
