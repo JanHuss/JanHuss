@@ -1,7 +1,7 @@
 # About Me:
-I am an Audio Tools Programmer with a decade of experience in music production and sound design. 
-I hold a Bachelor Honours of Arts in Music Production and Sound Engineering, and I am currently 
-pursuing a Bachelor Honours of Computer Science in Computer Game Applications Development 
+I am an **Audio Tools Programmer** with a decade of experience in music production and sound design. 
+I hold a **Bachelor Honours of Arts in Music Production and Sound Engineering**, and I am currently 
+pursuing a **Bachelor Honours of Computer Science in Computer Game Applications Development** 
 (expected completion in May 2025). My work uniquely blends musical creativity with technical 
 expertise, allowing me to excel in the games industry.
 
