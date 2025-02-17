@@ -41,6 +41,3 @@ An award-winning game developed by Studio Catloaf.
 - Reaper
 - FMOD
 - Wwise
-  
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janhuss/)<br> [![](https://visitcount.itsvg.in/api?id=JanHuss&icon=0&color=1)](https://visitcount.itsvg.in)
