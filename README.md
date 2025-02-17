@@ -19,25 +19,34 @@ An award-winning game developed by Studio Catloaf.
 
 # Skills
 
-### Languages:
+### Programming Languages & Markup
 
 - C++
 - C#
 - HTML
 - Python
 
-### Tools:
+### Game Development & Graphics
 
 - Unity
 - Unreal Engine
+- SFML
+- OpenGL
+
+### Development Environments & Tools
+
 - Rider
 - Visual Studio
 - PowerShell
 - GitHub
-- SFML
-- OpenGL
-- Jekyll
+
+### Audio Production & Middleware
+
 - Ableton
 - Reaper
 - FMOD
 - Wwise
+
+### Web & Site Generation
+
+- Jekyll
