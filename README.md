@@ -12,10 +12,10 @@ worked as a producer, audio programmer, sound designer, and composer.
 # Current Projects
 
 - [MaginEngine Audio](https://janhuss.github.io/posts/Building-an-Audio-Engine/)
-An honours project focused on building an efficient and optimized audio engine for video games.
+Starting off as an honours project, Maginengine Audio focuses on building an efficient and optimized audio engine for video games. This project won the **Playground Games Award for Game Technology** and was shortlisted for the **Pocket Sized Hands Award in Technical Innovation**.
 
 - [Book of Abominations](https://janhuss.github.io/posts/Dare-Academy-2023/)
-An award-winning game developed by Studio Catloaf.
+Developed by Studio Catloaf (formerly Magination Games), a team of two programmers who won a **clean sweep at Dare Academy 2023 in EGX**.
 
 
 # Skills
