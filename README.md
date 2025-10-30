@@ -20,7 +20,7 @@ This project won the **Playground Games Award for Game Technology** and was shor
 
 # Skills
 
-### Programming Languages & Markup
+### Programming Languages
 
 - C++
 - C#
