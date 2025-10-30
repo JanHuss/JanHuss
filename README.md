@@ -41,13 +41,13 @@ This project won the **Playground Games Award for Game Technology** and was shor
 - PowerShell
 - GitHub
 
-### Audio Production & Middleware
+### Music Production & Middleware
 
 - Ableton
 - Reaper
 - FMOD
 - Wwise
 
-### Web & Site Generation
+### Website Generation
 
 - Jekyll
